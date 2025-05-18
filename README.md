@@ -20,7 +20,7 @@ This repository contains a shell script to automate the installation of Python a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/cursor-installer.git
+git clone https://github.com/animesao/cursor-installer.git
 cd cursor-installer
 ```
 
